@@ -11,7 +11,7 @@ find_package(catkin REQUIRED COMPONENTS
 
 add_service_files(
   FILES
-  contol_2022.srv
+  control_2022.srv
 )
 
 generate_messages(
