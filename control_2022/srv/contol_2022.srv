@@ -1,0 +1,4 @@
+string req_string
+geometry_msgs/Pose req_pose
+---
+string res_string
